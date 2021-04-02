@@ -1,4 +1,4 @@
-# jamacloud 
+# majacloud 
 
 A DSCI 525 project by Group 3 to predict rainfall in NSW, Australia based on big datasets 
 
