@@ -5,6 +5,14 @@ A DSCI 525 project by Group 3 to predict rainfall in NSW, Australia based on big
 ## Overview 
 Our goal is to develop and deploy cloud-based ensemble machine learning model for future rainfall prediction in NSW, Australia. The datasets we used contain rain (mm/day) over time observed or computed by different models, retrieved on [figshare](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681). The datasets were loaded and combined together using `pandas` and `dask`, and underwent exploratory data analysis using both `python` and `R`. The data will then be used for big data machine learning model building and deployment to predict future rainfall in Australia. 
 
+
+| Milestones       |  Timeline        | 
+|:------------------:|:------------------:|
+| [Milestone 1 (Week 1) - Get the Data from Web & familiarize with advanced file formats](https://github.com/UBC-MDS/majacloud/blob/main/notebooks/milestone1.ipynb) |  2021-04-03 | 
+| Milestone 2 (Week 3)-  Setup S3 bucket, EC2 instance & TLJH |   2021-04-17|
+| Milestone 3 (Week 4)- Setup EMR-spark instance & rewrite ML model you have from previous milestone in spark | 2021-04-24  | 
+| Milestone 4 (Week 5)- Deploy ML model using flask | 2021-04-29     |
+
 ## Dependencies
 **Python 3.8.3**
 ```
