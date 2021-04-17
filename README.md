@@ -9,7 +9,7 @@ Our goal is to develop and deploy cloud-based ensemble machine learning model fo
 | Milestones       |  Timeline        | 
 |:------------------:|:------------------:|
 | [Milestone 1 (Week 1) - Get the Data from Web & familiarize with advanced file formats](https://github.com/UBC-MDS/majacloud/blob/main/notebooks/milestone1.ipynb) |  2021-04-03 | 
-| Milestone 2 (Week 3)-  Setup S3 bucket, EC2 instance & TLJH |   2021-04-17|
+| [Milestone 2 (Week 3)-  Setup S3 bucket, EC2 instance & TLJH](https://github.com/UBC-MDS/majacloud/blob/main/notebooks/Milestone2.ipynb) |   2021-04-17|
 | Milestone 3 (Week 4)- Setup EMR-spark instance & rewrite ML model you have from previous milestone in spark | 2021-04-24  | 
 | Milestone 4 (Week 5)- Deploy ML model using flask | 2021-04-29     |
 
