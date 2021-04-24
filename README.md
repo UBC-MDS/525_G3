@@ -22,6 +22,13 @@ json == 2.0.9
 pandas == 1.2.3
 dask == 2021.3.1
 rpy2 == 3.4.3
+pyspark == 3.1.1
+s3fs == 0.6.0
+joblib == 1.0.1
+matplotlib == 3.4.1
+sklearn == 0.0
+json5 == 0.9.5
+urllib3 == 1.26.4
 ```
 **R 4.0.2**
 ```
