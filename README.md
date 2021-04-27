@@ -11,7 +11,7 @@ Our goal is to develop and deploy cloud-based ensemble machine learning model fo
 | [Milestone 1 (Week 1) - Get the Data from Web & familiarize with advanced file formats](https://github.com/UBC-MDS/majacloud/blob/main/notebooks/milestone1.ipynb) |  2021-04-03 | 
 | [Milestone 2 (Week 3)-  Setup S3 bucket, EC2 instance & TLJH](https://github.com/UBC-MDS/majacloud/blob/main/notebooks/Milestone2.ipynb) |   2021-04-17|
 | [Milestone 3 (Week 4)- Setup EMR-spark instance & rewrite ML model you have from previous milestone in spark](https://github.com/UBC-MDS/majacloud/tree/main/notebooks/milestone3) | 2021-04-24  | 
-| [Milestone 4 (Week 5)- Deploy ML model using flask]() | 2021-04-29     |
+| [Milestone 4 (Week 5)- Deploy ML model using flask](https://github.com/UBC-MDS/majacloud/blob/main/notebooks/Milestone4.ipynb) | 2021-04-29     |
 
 ## Dependencies
 **Python 3.8.3**
@@ -29,6 +29,7 @@ matplotlib == 3.4.1
 sklearn == 0.0
 json5 == 0.9.5
 urllib3 == 1.26.4
+flask == 1.1.2
 ```
 **R 4.0.2**
 ```
@@ -37,11 +38,13 @@ dplyr == 1.0.3
 ```
 
 ## Contributors
-UBC MDS DSCI 525 Group 3:
-* Aishwarya Gopal @AishwaryaGopal12
-* Aditya Bhatraju @adibns
-* Jianru Deng @jianructose
-* Mitchie Yiqi Zhao @shoebillm
+We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/UBC-MDS/majacloud/graphs/contributors).
+UBC MDS DSCI 525 Group III:
+
+* Mitchie Yiqi Zhao [@shoebillm](https://github.com/shoebillm)
+* Jianru Deng [@jianructose](https://github.com/jianructose)
+* Aishwarya Gopal [@AishwaryaGopal12](https://github.com/AishwaryaGopal12)
+* Aditya Bhatraju [@adibns](https://github.com/adibns)
 
 ## Attributions 
 CMIP6 Experimental Design and Organization [https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)
